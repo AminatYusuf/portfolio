@@ -1,19 +1,19 @@
 # Yusuf Aminat Arike — Portfolio
 
-Public portfolio site for logo, brand, and product design work.
+Portfolio site: https://aminatyusuf.github.io/portfolio/
 
-## Add the real project images
+## CV PDF
 
-Create an `assets` folder in this repository and upload these five image files using the exact names below:
+Open `cv.html` and use your browser's **Print → Save as PDF** option. The page is already formatted for one A4 page with a clean sans-serif font, navy headings, and a gold accent. Save the file as `Yusuf_Aminat_Arike_CV.pdf`.
 
-- `explainit.jpg` — ExplainIt app screens and branding
-- `amecucias-ink.jpg` — Amecucia’s Ink logo concept
-- `leemah-kitchen.jpg` — Leemah Kitchen promotional design
-- `alhaja-real-estate.jpg` — Alhaja Real Estate design
-- `corporate-logo.jpg` — corporate logo concept
+## Important image-upload status
 
-The homepage already references these files. After uploading them, refresh the site and the real images will replace the colour placeholders.
+The current `assets` entry is a text file containing image names; it is not an actual folder of image files. The real images still need to be uploaded. Upload them to a new folder named `assets` with these exact names:
 
-## Published site
+- `explainit.jpg`
+- `amecucias-ink.jpg`
+- `leemah-kitchen.jpg`
+- `alhaja-real-estate.jpg`
+- `corporate-logo.jpg`
 
-https://aminatyusuf.github.io/portfolio/
+If GitHub will not let you create the folder because an `assets` file already exists, open the existing `assets` file, choose the three-dot menu, delete it, then use **Add file → Upload files** and upload the images. The image links in `index.html` will then work automatically.
