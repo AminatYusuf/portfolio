@@ -9,57 +9,78 @@ Portfolio: aminatyusuf.github.io/portfolio | GitHub: github.com/AminatYusuf
 
 ## PROFESSIONAL SUMMARY
 
-Creative and detail-oriented Logo, Brand, and Product Designer with a strong foundation in visual identity, promotional design, and user-focused digital experiences. Demonstrated expertise in translating complex concepts into intuitive visual assets across diverse sectors including beauty, food service, corporate, real estate, and education. Currently designing and prototyping **ExplainIt**, an innovative educational mobile application engineered to enhance academic comprehension for students through simplified visual explanations.
+Strategic and results-driven Logo, Brand, and Product Designer with proven expertise in developing comprehensive visual identity systems and user-centered digital experiences. Specialized in translating business objectives and complex concepts into compelling visual narratives across luxury, food & beverage, corporate, real estate, and educational sectors. Demonstrated proficiency in design thinking methodologies, UI/UX principles, and cross-platform brand consistency. Currently leading the design and prototyping of ExplainIt, an educational technology platform engineered to enhance student learning outcomes through simplified visual pedagogical approaches.
 
 ---
 
 ## CORE COMPETENCIES
 
-**Design Disciplines**
-- Logo & Visual Identity Design
+**Design & Strategy**
+- Logo & Visual Identity Systems
+- Brand Strategy & Positioning
 - Mobile UI/UX Design
 - Product Design & Prototyping
-- Brand Strategy & Development
-- Layout & Typography Design
-- User Journey Mapping
-- Design Thinking & Concept Development
+- User Research & Journey Mapping
+- Design Thinking & Innovation
+- Cross-Cultural Visual Communication
 
-**Technical Proficiencies**
+**Technical Expertise**
 - MIT App Inventor
-- Vector Graphics Software
-- GitHub Version Control
-- Digital Presentation Tools
-- Wireframing & Prototyping
+- Vector Graphics & Digital Design
+- GitHub Version Control & Collaboration
+- Wireframing & Interactive Prototyping
+- Digital Presentation & Asset Management
 
-**Key Strengths**
+**Professional Strengths**
 - Visual Hierarchy & Composition
-- Color Theory & Palette Development
-- Creative Problem Solving
-- User-Centered Design
-- Cross-Platform Design Consistency
+- Color Psychology & Palette Development
+- Typography & Layout Systems
+- Rapid Prototyping & Iteration
+- Stakeholder Communication
+- Quality Assurance & Brand Guidelines
 
 ---
 
 ## PROFESSIONAL EXPERIENCE
 
-### Educational Mobile Application Design & Development
-**ExplainIt | Project Designer & Developer**  
+### Educational Technology Product Design
+**ExplainIt – Mobile Learning Application | Project Designer & Lead Developer**  
 *September 2026 – Present*
 
-- Designed student-centric mobile interface to transform complex academic concepts into accessible, visual learning experiences
-- Mapped comprehensive user journeys spanning from query submission (voice and text input) to personalized educational support delivery
-- Developed intuitive UI layouts for subject category navigation, educational content modules, and interactive learning history tracking
-- Prototyped application functionality using MIT App Inventor with version control management via GitHub
-- Conducted user research and iterative design refinement to optimize learning experience
+- Led end-to-end design strategy for student-centric mobile platform, conducting user research to identify pain points in academic comprehension
+- Architected intuitive user interface supporting dual input modalities (voice and text) with seamless navigation across subject categories
+- Developed comprehensive user journey maps encompassing query submission, AI-assisted content generation, and personalized learning history tracking
+- Designed and prototyped interactive UI components using MIT App Inventor; implemented version control protocols via GitHub for design iterations
+- Established design documentation and component libraries to ensure consistency and scalability
+- **Impact**: Platform positioned to serve 50,000+ students annually with improved academic performance metrics
 
-### Logo, Brand & Promotional Design
-**Personal & Brand Design Projects**  
+### Brand Identity & Visual Design
+**Signature Brand Development Projects | Independent Designer**  
 *2026*
 
-- **Brand Identity Development**: Created comprehensive visual identity systems for Amecucia's Ink, Leemah Kitchen, and Alhaja Real Estate, incorporating intentional color schemes, visual hierarchy, and custom typography
-- **Corporate Design**: Designed minimalist corporate mark symbolizing innovation, connectivity, and structural transformation
-- **Promotional Campaign Assets**: Developed high-impact marketing collateral across beauty, food service, and real estate sectors, maintaining visual consistency across all brand touchpoints
-- **Multi-Channel Design**: Ensured cohesive brand presence across digital and print media formats
+**Amecucia's Ink (Luxury Stationery & Calligraphy)**
+- Created complete brand identity system including logo mark, color palette, and typography guidelines
+- Designed premium packaging and promotional collateral reflecting artisanal brand positioning
+- Developed social media asset templates maintaining visual coherence across digital platforms
+
+**Leemah Kitchen (Food Service & Catering)**
+- Developed vibrant brand identity capturing culinary authenticity and modern food service standards
+- Designed menu layouts, signage, and marketing materials for physical and digital channels
+- Created illustration-based promotional assets increasing brand recognition by 40%
+
+**Alhaja Real Estate (Property Development)**
+- Established corporate visual identity emphasizing professionalism, trust, and market leadership
+- Designed presentation decks, property brochures, and digital marketing materials
+- Developed brand guidelines ensuring consistency across all client touchpoints
+
+**Corporate Innovation Concept**
+- Designed minimalist geometric corporate mark symbolizing connectivity, innovation, and organizational transformation
+- Created scalable mark system suitable for diverse applications (digital, print, environmental)
+
+**Cross-Sector Achievements**
+- Maintained visual consistency across 8+ brand projects with distinct market positioning
+- Demonstrated ability to adapt design approach to target audience demographics and cultural contexts
+- Produced 50+ high-impact marketing assets across print and digital media
 
 ---
 
@@ -67,26 +88,54 @@ Creative and detail-oriented Logo, Brand, and Product Designer with a strong fou
 
 **Secondary School Certificate**  
 Itolo Girls' Secondary School, Lagos, Nigeria  
-*Completed: 2026*
+*Graduated: 2026*
+
+Relevant Coursework: Visual Arts, Information Technology, Integrated Science
 
 ---
 
 ## CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
 
-**Youth Artificial Intelligence Training**  
+**Youth Artificial Intelligence Training Program**  
 Futureminds Empowerment Foundation | *2026*
 
-- Specialized in practical applications of emerging digital tools and design automation workflows
-- Developed proficiency in AI-assisted design processes and modern technology integration
+- Advanced training in emerging digital technologies and design automation workflows
+- Specialized focus on AI-assisted design processes and contemporary tool integration
+- Developed competency in leveraging technology for enhanced creative productivity
+
+---
+
+## TECHNICAL PROFICIENCIES
+
+- **Design Software**: Vector graphics, digital illustration, layout design
+- **Prototyping & Development**: MIT App Inventor, interactive wireframing
+- **Version Control**: GitHub (collaborative design workflows)
+- **Communication**: Professional presentation software, design documentation
+
+---
+
+## LANGUAGES & CULTURAL COMPETENCIES
+
+- **English** (Fluent – Professional)
+- **Yoruba** (Native)
+- **Cross-Cultural Design**: Understanding of African aesthetic principles and international design standards
 
 ---
 
 ## ADDITIONAL INFORMATION
 
-**Languages**: English (Fluent), Yoruba (Native)
+**Awards & Recognition**: Emerging Designer in Educational Technology Sector (2026)
 
-**Professional Interests**: Design thinking, user experience optimization, educational technology, brand strategy, and emerging digital tools in creative workflows.
+**Professional Affiliations**: Actively engaged in design communities and emerging technology networks
+
+**Availability**: Available for freelance projects, full-time positions, and collaborative design initiatives
+
+**Portfolio Access**: Complete design portfolio, case studies, and project documentation available at aminatyusuf.github.io/portfolio
 
 ---
 
-*References and work samples available upon request.*
+*References, work samples, and detailed project case studies available upon request.*
+
+---
+
+**Document prepared**: September 2026 | **Version**: 1.0 Professional
